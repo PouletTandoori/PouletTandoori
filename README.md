@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PouletTandoori
+- 👀 I’m interested in Seismology
+- 🌱 I’m currently in PhD
+- 💞️ I’m looking to collaborate on ML models
+- 📫 How to reach me : remybertille44@gmail.com
