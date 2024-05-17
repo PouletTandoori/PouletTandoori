@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rémy BERTILLE
 - 👀 I’m interested in Seismology
-- 🌱 I’m currently in PhD at Polytechniques Montréal
-- 💞️ I’m looking to collaborate on ML models
+- 🌱 I’m currently in PhD at Polytechnique Montréal
+- 💞️ I’m looking forward to collaborate on ML models
 - 📫 How to reach me : remybertille44@gmail.com
